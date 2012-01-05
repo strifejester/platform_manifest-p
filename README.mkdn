@@ -25,3 +25,4 @@ Then to sync up:
 
 I want to add a huge shout out to Pete Alfonso. I built AOSP a few times and Pete's builds were so clean and did 
 a lot of the legwork I decided to fork them instead of re-inventing the wheel. I am hoping to build on what he has started.
+You can tell the repos with a -p at the end are all from Pete thanks again for all of the work you have done.
